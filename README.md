@@ -3,11 +3,11 @@
 
 - 💻 Being a junior software engineer, I am constantly on the lookout for new learning opportunities and to make new connections in the tech space! 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kenjiong](https://github.com/kenjiong)
+- 👨‍💻 All of my projects are available at: [https://github.com/kenjiong?tab=repositories](https://github.com/kenjiong?tab=repositories)
 
-- 📫 How to reach me **ongshaoqiang@gmail.com**
+- 📫 How to reach me: **ongshaoqiang@gmail.com**
 
-- ⚡ Fun fact **I have wearing spectacles since I was 6 years old 🤓**
+- ⚡ Fun fact: **I have wearing spectacles since I was 6 years old 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
