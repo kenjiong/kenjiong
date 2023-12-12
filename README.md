@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Kenji Ong</h1>
-<h3 align="center">A passionate full-stack software engineer from Singapore</h3>
-<h4 align="center">A lifelong learner and builder</h4>
+<h3 align="center">A passionate full-stack software engineer/lifelong learner and builder from Singapore</h3>
 <hr />
 
 - 💻 Being a junior software engineer, I am constantly on the lookout for new learning opportunities and to make new connections in the tech space!
