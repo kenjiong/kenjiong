@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kenji Ong</h1>
+<h1 align="center">Hello there 👋, I'm Kenji Ong</h1>
 <h3 align="center">A passionate full-stack software engineer from Singapore</h3>
+<h5 align="center">A lifelong learner and builder</h5>
 
-- 💻 Being a junior software engineer, I am constantly on the lookout for new learning opportunities and to make new connections in the tech space! 
+- 💻 Being a junior software engineer, I am constantly on the lookout for new learning opportunities and to make new connections in the tech space!
+  
+- 🧑🏻‍💼 An ex-lawyer, I hope to bring my persuasiveness and analytical skills from the courtroom into my coding projects!
 
 - 👨‍💻 All of my projects are available at: [https://github.com/kenjiong?tab=repositories](https://github.com/kenjiong?tab=repositories)
 
